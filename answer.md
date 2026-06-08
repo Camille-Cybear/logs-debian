@@ -18,4 +18,4 @@ Voici le script permettant d'afficher :
 
 ## Site fonctionnel
 
-![capture apache]()
+![capture apache](https://github.com/Camille-Cybear/logs-debian/blob/1fbfdd141cd340b94c3770487318e9882b857304/capture-apache.png)
