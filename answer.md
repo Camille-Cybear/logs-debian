@@ -15,3 +15,7 @@ Voici le script permettant d'afficher :
 3 accès depuis la VM elle-même avec curl
 
 ![resultat script](https://github.com/Camille-Cybear/logs-debian/blob/8f52f0195aeae879ce0849103ddcf1be645bff99/resultat-script-logs.png)
+
+## Site fonctionnel
+
+![capture apache]()
